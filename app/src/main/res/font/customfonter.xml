@@ -22,14 +22,9 @@
   ~     additional information or have any questions
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-<resources>
-
-    <color name="indigo_500">#00FF25</color>
-    <color name="indigo_700">#017511</color>
-    <color name="pink_400">#AB0000</color>
-
-    <color name="colorPrimary">@color/indigo_500</color>
-    <color name="colorPrimaryDark">@color/indigo_700</color>
-    <color name="colorAccent">@color/pink_400</color>
-
-</resources>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+        <font
+            android:fontStyle="normal"
+            android:fontWeight="400"
+            android:font="@font/customfont" />
+</font-family>
