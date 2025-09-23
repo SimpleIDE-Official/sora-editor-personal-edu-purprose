@@ -23,14 +23,18 @@ Note that statements in other languages may not be up-to-date.
 ## CHANGES IN THE PROJECT FOR PRACTICE 1
 
 - changed app name
-[!appName](.github/1.png)
+  
+![appName](.github/1.png)
 - changed colors
-[!colors](.github/2.png)
+  
+![colors](.github/2.png)
 - added another user permission
-[!userPerms](.github/4.png)
+
+![userPerms](.github/4.png)
 - added custom font(doesn't work)
-[!fonts1](.github/5.png)
-[!fonts2](.github/3.png)
+
+![fonts1](.github/5.png)
+![fonts2](.github/3.png)
 
 ## Features
 
