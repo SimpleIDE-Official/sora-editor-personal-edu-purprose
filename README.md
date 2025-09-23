@@ -36,6 +36,18 @@ Note that statements in other languages may not be up-to-date.
 ![fonts1](.github/5.png)
 ![fonts2](.github/3.png)
 
+## HOW TO SETUP
+```bash
+git clone https://github.com/Remeraldb/sora-editor-personal-edu-purpose.git
+cd sora-editor-personal-edu-purpose
+```
+- Open in Android Studio -> wait for Gradle to sync.
+
+### Run
+
+- Connect device (USB debugging) or launch Emulator
+- Press "Run" in Android Studio (Shift + F10)
+
 ## Features
 
 - [x] Incremental syntax highlight
