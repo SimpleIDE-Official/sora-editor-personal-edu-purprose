@@ -99,7 +99,11 @@ dependencies {
     implementation(projects.languageTreesitter)
 
     // Tree-sitter languages
+    implementation(libs.tree.sitter.json)
     implementation(libs.tree.sitter.java)
+    implementation(libs.tree.sitter.kotlin)
+    implementation(libs.tree.sitter.log)
+    implementation(libs.tree.sitter.xml)
 
     // Monarch Languages
     implementation(libs.monarch.language.pack)
